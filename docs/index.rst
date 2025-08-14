@@ -3,6 +3,12 @@ How to Activate & Install Trend Micro Internet or Maximum Security Already Purch
 
 When you’ve already bought a Trend Micro subscription, setting it up correctly ensures your device gets the full benefit of its security features. Whether you’re looking to **Install Trend Micro Already Purchased**, specifically **Install Trend Micro Internet Security**, **Install Trend Micro Maximum Security**, or simply complete the process to **Install Trend Micro with Activation Code**, this guide will take you through the entire process.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://desk-trendmicro.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Trend Micro</a>
+   </div>
+
 Trend Micro offers a reliable defense against online threats like viruses, malware, phishing scams, and ransomware. Installing your purchased software is straightforward if you follow the right steps. Once activated, it provides real-time protection and automatic updates to keep your devices safe.
 
 Understanding Trend Micro Versions
@@ -123,3 +129,4 @@ Final Thoughts
 Completing the process to **Install Trend Micro Already Purchased**, whether it’s **Trend Micro Internet Security** or **Trend Micro Maximum Security**, is simple when you have the correct activation code and follow the steps provided. Always download from the official `Trend Micro activation page <https://www.trendmicro.com/activate>`_ to ensure authenticity and avoid malicious copies.
 
 Your security depends on keeping the software active, updated, and properly configured. With Trend Micro’s advanced protection, you can browse, work, and shop online with confidence knowing your devices are guarded against evolving threats.
+
